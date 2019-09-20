@@ -1,4 +1,4 @@
-<p align="center"><img alt="Mr羽墨青衫" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="Mr羽墨青衫" src="http://image.feathers.top/image/WechatIMG1.jpeg"></p><h2 align="center">
 Mr羽墨青衫
 </h2>
 
