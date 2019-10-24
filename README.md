@@ -10,6 +10,7 @@ Mr羽墨青衫
 
 ### 最新
 
+* [Motan_服务注册](http://blog.feathers.top/articles/2019/10/23/1571825560230.html)
 * [Motan_SPI插件扩展机制](http://blog.feathers.top/articles/2019/09/16/1568614556679.html)
 * [Pepper Metrics - Spring/Spring Boot应用性能监控利器](http://blog.feathers.top/articles/2019/09/06/1567742855243.html)
 * [Redis-探究：集群扩容导致Jedis客户端报JedisMovedDataException异常的原因](http://blog.feathers.top/articles/2019/08/16/1565927017155.html)
@@ -29,13 +30,13 @@ Mr羽墨青衫
 * [Java垃圾回收算法-引用计数法](http://blog.feathers.top/articles/2019/08/03/1564808256689.html)
 * [在Java中如何判定一个对象是否可回收](http://blog.feathers.top/articles/2019/08/03/1564808125212.html)
 * [通过Java串行收集器（SerialGC）深入理解分代GC过程](http://blog.feathers.top/articles/2019/08/03/1564807690314.html)
-* [Java队列同步器（AQS）到底是怎么一回事儿](http://blog.feathers.top/articles/2019/08/03/1564806620501.html)
 
 ### 热门
 
 * [Java8迁移到Java11的过程](http://blog.feathers.top/articles/2019/08/02/1564729150341.html)
 * [Java Flight Recorder初探](http://blog.feathers.top/articles/2019/08/02/1564726778521.html)
 * [Java8中ConcurrentHashMap是如何保证线程安全的](http://blog.feathers.top/articles/2019/08/02/1564727155480.html)
+* [Java队列同步器（AQS）到底是怎么一回事儿](http://blog.feathers.top/articles/2019/08/03/1564806620501.html)
 * [深入理解Java即时编译器（下）](http://blog.feathers.top/articles/2019/08/03/1564805895715.html)
 * [关于Ahead-of-Time Compilation的调研与研究](http://blog.feathers.top/articles/2019/08/02/1564725467959.html)
 * [深入理解Java即时编译器（上）](http://blog.feathers.top/articles/2019/08/03/1564804799077.html)
