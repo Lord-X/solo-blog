@@ -10,6 +10,7 @@ Mr羽墨青衫
 
 ### 最新
 
+* [Motan_服务调用](http://blog.feathers.top/articles/2019/10/25/1571974310339.html)
 * [Motan_服务注册](http://blog.feathers.top/articles/2019/10/23/1571825560230.html)
 * [Motan_SPI插件扩展机制](http://blog.feathers.top/articles/2019/09/16/1568614556679.html)
 * [Pepper Metrics - Spring/Spring Boot应用性能监控利器](http://blog.feathers.top/articles/2019/09/06/1567742855243.html)
@@ -29,7 +30,6 @@ Mr羽墨青衫
 * [我在 GitHub 上的开源项目](http://blog.feathers.top/my-github-repos)
 * [Java垃圾回收算法-引用计数法](http://blog.feathers.top/articles/2019/08/03/1564808256689.html)
 * [在Java中如何判定一个对象是否可回收](http://blog.feathers.top/articles/2019/08/03/1564808125212.html)
-* [通过Java串行收集器（SerialGC）深入理解分代GC过程](http://blog.feathers.top/articles/2019/08/03/1564807690314.html)
 
 ### 热门
 
@@ -40,6 +40,7 @@ Mr羽墨青衫
 * [深入理解Java即时编译器（下）](http://blog.feathers.top/articles/2019/08/03/1564805895715.html)
 * [关于Ahead-of-Time Compilation的调研与研究](http://blog.feathers.top/articles/2019/08/02/1564725467959.html)
 * [深入理解Java即时编译器（上）](http://blog.feathers.top/articles/2019/08/03/1564804799077.html)
+* [通过Java串行收集器（SerialGC）深入理解分代GC过程](http://blog.feathers.top/articles/2019/08/03/1564807690314.html)
 * [HashMap原理及内部存储结构](http://blog.feathers.top/articles/2019/08/02/1564726685849.html)
 
 
